@@ -1,3 +1,4 @@
+<div align="center"><img src="https://raw.githubusercontent.com/Goaty-yagi/Goaty-yagi/main/banner.jpg" alt="banner"></div>
 <h1 align="center">Hi 👋, I'm Nobuhiro</h1>
 <h3 align="center">A passionate Software Engineer developer from Melbourne</h3>
 <br>
