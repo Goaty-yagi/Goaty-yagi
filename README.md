@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goaty-yagi&label=Profile%20views&color=0e75b6&style=flat" alt="goaty-yagi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goaty-yagi" alt="goaty-yagi" /></a> </p>
-
 - 🔭 I’m currently studying computer science **At Holberton School Australia**
 
 - 🌱 I’m currently learning **C | AWS Solutions Architect - Associate**
